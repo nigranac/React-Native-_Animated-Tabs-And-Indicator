@@ -40,7 +40,7 @@ const Tab = React.forwardRef(({item, onItemPress}, ref) => {
         <Text
           style={{
             color: 'white',
-            fontSize:64 / data.length,
+            fontSize:84 / data.length,
             fontWeight: '800',
             textTransform: 'uppercase',
           }}>
